@@ -1,0 +1,84 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #141414;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+}
+
+header {
+    margin: 2rem auto;
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    padding: 30px;
+    padding
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 30rem;
+    width: 90%;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 10rem;
+    border-radius: 100px;
+}
+
+.class-title {
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    margin-bottom: 25px;
+    color: #d8fe70;
+}
+
+.btn-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-title button {
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #333333;
+    color: #fff;
+    width: 25rem; /* Ajoutez cette propriété pour définir une largeur fixe pour tous les boutons */
+    transition: transform 0.3s ease;
+}
+
+.btn-title button:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;
+    background-color: #1f1f1f;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+  
+ 

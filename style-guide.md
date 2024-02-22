@@ -1,32 +1,32 @@
-# Front-end Style Guide
+# Guide de style frontal
 
-## Layout
+## Mise en page
 
-The designs were created to the following widths:
+Les designs ont été créés dans les largeurs suivantes :
 
-- Mobile: 375px
-- Desktop: 1440px
+- Mobile : 375 px
+- Bureau : 1440px
 
-## Colors
+## Couleurs
 
-### Primary
+### Primaire
 
-- Green: hsl(75, 94%, 57%)
+- Vert : hsl(75, 94%, 57%)
 
-### Neutral
+### Neutre
 
-- White: hsl(0, 0%, 100%)
-- Grey: hsl(0, 0%, 20%)
-- Dark Grey: hsl(0, 0%, 12%)
-- Off Black: hsl(0, 0%, 8%)
+- Blanc : hsl(0, 0%, 100%)
+- Gris : hsl(0, 0%, 20%)
+- Gris foncé : hsl(0, 0%, 12%)
+- Noir cassé : hsl(0, 0%, 8%)
 
-## Typography
+## Typographie
 
-### Body Copy
+### Corps du texte
 
-- Font size (paragraph): 14px
+- Taille de la police (paragraphe) : 14px
 
-### Font
+### Police de caractère
 
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
-- Weights: 400, 600, 700
+- Famille : [Inter](https://fonts.google.com/specimen/Inter)
+- Poids : 400, 600, 700
